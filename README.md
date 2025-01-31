@@ -10,6 +10,6 @@ ASAP_2_Final_github_test.zip, which is a password protect zip file that contains
 
 **NOTE** The password for the zip file is **asap2_test**. You may need to use specific software to decrypt the zip file like 7-Zip for Windows of Keka for Mac.
 
-A pre-print of the paper that is freely accessible to all can be found [here](https://zenodo.org/records/11217937).
+A pre-print of the paper that is freely accessible to all can be found [here](https://zenodo.org/records/14781349).
 
 The data is provided under a CC BY-NC-SA 4.0 DEED Attribution-NonCommercial-ShareAlike 4.0 International license (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
